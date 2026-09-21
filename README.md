@@ -30,3 +30,4 @@
 | 2026-09-16 | [데이터 분석 프로젝트 원칙과 merge 검증](./2026-09-16-데이터분석-원칙과-merge.md) |
 | 2026-09-17 | [선형 회귀 학습, 범주형 결측치 처리, GROUP BY와 HAVING 복습](./2026-09-17-복습노트.md) |
 | 2026-09-18 | [SQL: IN/NOT IN, EXISTS, WHERE와 HAVING](./2026-09-18-SQL-IN-EXISTS-HAVING.md) |
+| 2026-09-21 | [SQL: DDL과 DML](./2026-09-21-DDL과-DML.md) |
