@@ -31,3 +31,4 @@
 | 2026-09-17 | [선형 회귀 학습, 범주형 결측치 처리, GROUP BY와 HAVING 복습](./2026-09-17-복습노트.md) |
 | 2026-09-18 | [SQL: IN/NOT IN, EXISTS, WHERE와 HAVING](./2026-09-18-SQL-IN-EXISTS-HAVING.md) |
 | 2026-09-21 | [SQL: DDL과 DML](./2026-09-21-DDL과-DML.md) |
+| 2026-10-14 | [CSS 상속·우선순위·display, JavaScript map(), Next.js Link](./2026-10-14-CSS-기초와-map-Link.md) |
